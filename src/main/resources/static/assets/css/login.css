@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+html, body {
+	height: 100%;
+}
+
+.main-container {
+	padding-top: 200px;
+}

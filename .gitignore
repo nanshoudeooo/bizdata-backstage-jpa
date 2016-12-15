@@ -1,0 +1,15 @@
+.classpath
+
+.mvn/*
+
+.project
+
+.settings/*
+
+.svn/*
+
+logs/*
+
+.mvn/*
+
+target/*

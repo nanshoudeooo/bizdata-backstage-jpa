@@ -14,3 +14,4 @@ logs/*
 
 target/*
 /target/
+/logs/

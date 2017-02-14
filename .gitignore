@@ -13,3 +13,4 @@ logs/*
 .mvn/*
 
 target/*
+/target/

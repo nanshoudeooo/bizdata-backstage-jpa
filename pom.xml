@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.bizdata</groupId>
-	<artifactId>bizdata-backstage</artifactId>
+	<artifactId>bizdata-backstage-jpa</artifactId>
 	<version>1.0.4</version>
 	<packaging>jar</packaging>
 
-	<name>bizdata-backstage</name>
+	<name>bizdata-backstage-jpa</name>
 	<description>南京商数后台系统,基于Spring boot,jpa,shiro构建的一套后台快速开发框架!</description>
 
 	<parent>
